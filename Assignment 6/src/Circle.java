@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 public class Circle {
 	
 	double radius;
