@@ -1,3 +1,5 @@
+//OK. O.Aktunc. Please submit these assignments on time.
+
 public class Pet {
 	
 	String name;
